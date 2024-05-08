@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    background-color: #86522D;
+    font-family: sans-serif;
+    color: whitesmoke;
+
+}
+
+footer {
+    align-self: flex-end;
+    background-color: #382212;
+    color: white;
+    bottom: 0;
+    width: 100vw;
+    font-size: 16px;
+}
+footer * {
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
